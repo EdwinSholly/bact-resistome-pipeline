@@ -1,0 +1,3 @@
+Comprehensive CARD RGI Consensus Screen Results:
+- fosB (Perfect Match - 100% Identity): Chromosomal thiol-transferase [Coordinates: 2399688 - 2400107]
+- norC (Strict Match - 99.13% Identity): Chromosomal MFS efflux pump [Coordinates: 62340 - 63728]
